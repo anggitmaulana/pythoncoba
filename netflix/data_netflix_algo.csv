@@ -1,0 +1,435 @@
+,Title1,Title2,Support,Confident,Lift
+0,"Anime Series, International TV Shows",1 Season,0.00635,0.63636,3.12609
+1,"Crime TV Shows, Docuseries",1 Season,0.00454,0.8,3.92994
+2,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",1 Season,0.00510,0.72580,3.56547
+3,"Crime TV Shows, International TV Shows, TV Dramas",1 Season,0.01033,0.82727,4.06392
+4,1 Season,Docuseries,0.00772,0.8,3.92994
+5,"International TV Shows, Korean TV Shows, Romantic TV Shows",1 Season,0.00703,0.95384,4.68570
+6,1 Season,"International TV Shows, Romantic TV Shows, TV Comedies",0.00953,0.89361,4.38983
+7,"International TV Shows, Romantic TV Shows, TV Dramas",1 Season,0.00908,0.88888,4.36661
+8,1 Season,"International TV Shows, TV Dramas",0.01146,0.83471,4.10046
+9,Reality TV,1 Season,0.00737,0.68421,3.36114
+10,South Korea,1 Season,0.01566,0.69346,3.40661
+11,TV Show,1 Season,0.20356,1.0,3.29147
+12,1 Season,Taiwan,0.00760,0.82716,4.06337
+13,2 Seasons,Kids' TV,0.00635,0.25454,5.27537
+14,2 Seasons,TV Show,0.04825,1.0,3.29147
+15,TV Show,3 Seasons,0.02259,1.0,3.29147
+16,TV Show,4 Seasons,0.01078,1.0,3.29147
+17,TV Show,5 Seasons,0.00737,1.0,3.29147
+18,R,Action & Adventure,0.00976,0.67187,7.40660
+19,India,"Action & Adventure, Dramas, International Movies",0.00613,0.40909,3.70707
+20,"Anime Series, International TV Shows",Japan,0.00851,0.85227,30.6400
+21,"Anime Series, International TV Shows",TV Show,0.00999,1.0,3.29147
+22,Children & Family Movies,TV-Y,0.00965,0.39534,11.3427
+23,Children & Family Movies,TV-Y7,0.00794,0.32558,8.58599
+24,"Children & Family Movies, Comedies",PG,0.01123,0.49253,15.1159
+25,"Comedies, Dramas, International Movies",India,0.01362,0.43795,3.96864
+26,TV Show,"Crime TV Shows, Docuseries",0.00567,1.0,3.29147
+27,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",TV Show,0.00703,1.0,3.29147
+28,"Crime TV Shows, International TV Shows, TV Dramas",TV Show,0.01248,1.0,3.29147
+29,"December 31, 2019",India,0.00613,0.72972,6.61261
+30,TV Show,Docuseries,0.00965,1.0,3.29147
+31,Dramas,R,0.00499,0.31884,3.51482
+32,"Dramas, Independent Movies",R,0.00579,0.51,5.62212
+33,India,"Dramas, Independent Movies, International Movies",0.01226,0.42857,3.88359
+34,"Dramas, International Movies, Romantic Movies",India,0.00703,0.34444,3.12126
+35,R,"Dramas, Thrillers",0.00510,0.54878,6.04963
+36,India,"March 1, 2018",0.00567,0.66666,6.04115
+37,"October 1, 2018",India,0.00533,0.66197,5.99860
+38,South Korea,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00715,0.96923,42.8994
+39,TV Show,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00737,1.0,3.29147
+40,TV Show,"International TV Shows, Romantic TV Shows, TV Comedies",0.01067,1.0,3.29147
+41,TV Show,"International TV Shows, Romantic TV Shows, TV Dramas",0.01021,1.0,3.29147
+42,TV Show,"International TV Shows, TV Comedies, TV Dramas",0.00454,1.0,3.29147
+43,TV Show,"International TV Shows, TV Dramas",0.01373,1.0,3.29147
+44,TV Show,Kids' TV,0.02497,1.0,3.29147
+45,TV-Y,Kids' TV,0.01328,0.53181,15.2581
+46,TV-Y7,Kids' TV,0.00976,0.39090,10.3087
+47,"Kids' TV, TV Comedies",TV Show,0.01123,1.0,3.29147
+48,"Kids' TV, TV Comedies",TV-Y7,0.00488,0.43434,11.4541
+49,TV Show,Reality TV,0.01078,1.0,3.29147
+50,TV Show,TV Comedies,0.00783,1.0,3.29147
+51,TV Show,1 Season,0.00476,1.0,3.29147
+52,TV Show,1 Season,0.00510,1.0,3.29147
+53,TV Show,1 Season,0.00726,1.0,3.29147
+54,TV Show,1 Season,0.01316,1.0,3.29147
+55,TV Show,1 Season,0.01896,1.0,3.29147
+56,TV Show,2017,0.01998,1.0,3.29147
+57,TV Show,1 Season,0.02906,1.0,3.29147
+58,2019,1 Season,0.02861,1.0,3.29147
+59,TV Show,1 Season,0.03303,1.0,3.29147
+60,TV Show,2021,0.02304,1.0,3.29147
+61,"Anime Series, International TV Shows",1 Season,0.00510,0.51136,40.9462
+62,"Anime Series, International TV Shows",1 Season,0.00635,0.63636,3.12609
+63,"Anime Series, International TV Shows",1 Season,0.00613,0.61363,3.20385
+64,TV Show,"Crime TV Shows, Docuseries",0.00454,0.8,3.92994
+65,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",1 Season,0.00510,0.72580,3.56547
+66,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",1 Season,0.00476,0.67741,7.72889
+67,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",1 Season,0.00465,0.66129,3.45266
+68,"Crime TV Shows, International TV Shows, TV Dramas",1 Season,0.01033,0.82727,4.06392
+69,"Crime TV Shows, International TV Shows, TV Dramas",1 Season,0.00772,0.61818,7.05303
+70,"Crime TV Shows, International TV Shows, TV Dramas",1 Season,0.00862,0.69090,3.60730
+71,TV Show,1 Season,0.00772,0.8,3.92994
+72,1 Season,United States,0.00533,0.55294,12.1151
+73,1 Season,nan,0.00726,0.75294,3.93118
+74,TV Show,India,0.00794,1.0,3.29147
+75,India,1 Season,0.00715,0.64948,3.19055
+76,South Korea,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00681,0.92307,58.9163
+77,TV Show,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00703,0.95384,4.68570
+78,"International TV Shows, Korean TV Shows, Romantic TV Shows",1 Season,0.00647,0.87692,4.57850
+79,TV Show,1 Season,0.00953,0.89361,4.38983
+80,1 Season,"International TV Shows, Romantic TV Shows, TV Comedies",0.00533,0.5,8.24719
+81,1 Season,"International TV Shows, Romantic TV Shows, TV Comedies",0.00896,0.84042,4.38794
+82,TV Show,"International TV Shows, Romantic TV Shows, TV Dramas",0.00908,0.88888,4.36661
+83,"International TV Shows, Romantic TV Shows, TV Dramas",1 Season,0.00567,0.55555,9.16354
+84,"International TV Shows, Romantic TV Shows, TV Dramas",1 Season,0.00896,0.87777,4.58296
+85,TV Show,1 Season,0.01146,0.83471,4.10046
+86,1 Season,TV-14,0.00601,0.43801,7.22481
+87,1 Season,nan,0.01078,0.78512,4.09921
+88,Japan,1 Season,0.01248,1.0,3.29147
+89,Japan,1 Season,0.01180,0.64197,3.15366
+90,TV Show,1 Season,0.01373,1.0,3.29147
+91,1 Season,TV-Y,0.00737,0.29545,28.9151
+92,1 Season,TV-Y7,0.00522,0.20909,19.5922
+93,"Kids' TV, TV Comedies",1 Season,0.00499,1.0,3.29147
+94,TV Show,Reality TV,0.00737,0.68421,3.36114
+95,Reality TV,1 Season,0.00544,0.50526,11.0705
+96,Reality TV,1 Season,0.00726,0.67368,3.51737
+97,South Korea,1 Season,0.01566,0.69346,3.40661
+98,South Korea,1 Season,0.00806,0.35678,5.88493
+99,South Korea,1 Season,0.01475,0.65326,3.41077
+100,TV Show,1 Season,0.06062,0.29782,3.57877
+101,TV Show,1 Season,0.00647,1.0,3.29147
+102,TV Show,1 Season,0.08764,0.43056,3.31214
+103,TV Show,1 Season,0.02713,1.0,3.29147
+104,TV Show,1 Season,0.01021,1.0,3.29147
+105,TV Show,1 Season,0.01067,1.0,3.29147
+106,TV Show,1 Season,0.00760,0.82716,4.06337
+107,TV Show,1 Season,0.01487,1.0,3.29147
+108,TV Show,1 Season,0.04564,1.0,3.29147
+109,TV Show,1 Season,0.19153,0.94088,3.27690
+110,1 Season,Taiwan,0.00681,0.74074,3.86748
+111,2 Seasons,2016,0.00465,1.0,3.29147
+112,2 Seasons,2017,0.00465,1.0,3.29147
+113,2 Seasons,TV Show,0.00715,1.0,3.29147
+114,2 Seasons,2019,0.00828,1.0,3.29147
+115,2 Seasons,TV Show,0.00783,1.0,3.29147
+116,2 Seasons,2021,0.00647,1.0,3.29147
+117,2 Seasons,TV Show,0.00476,1.0,3.29147
+118,2 Seasons,Japan,0.00454,0.24691,5.11721
+119,2 Seasons,TV Show,0.00635,0.25454,5.27537
+120,2 Seasons,nan,0.00624,0.25,5.41031
+121,2 Seasons,TV Show,0.00828,1.0,3.29147
+122,2 Seasons,TV Show,0.02168,0.44941,3.45713
+123,2 Seasons,TV Show,0.00613,1.0,3.29147
+124,2 Seasons,TV Show,0.00635,1.0,3.29147
+125,2 Seasons,TV Show,0.01453,0.30117,3.49047
+126,2 Seasons,TV Show,0.04620,0.95764,3.33529
+127,2 Seasons,nan,0.00601,0.22943,4.75501
+128,2 Seasons,nan,0.00613,0.20930,4.33772
+129,TV Show,3 Seasons,0.01078,0.47738,3.67233
+130,TV Show,3 Seasons,0.00896,0.39698,4.60084
+131,TV Show,3 Seasons,0.02225,0.98492,3.43029
+132,3 Seasons,nan,0.00885,0.39195,3.55183
+133,TV Show,United States,0.00601,0.55789,6.46570
+134,TV Show,nan,0.01033,0.95789,3.33615
+135,United States,nan,0.00590,0.54736,4.96010
+136,TV Show,5 Seasons,0.00669,0.90769,3.16131
+137,R,Action & Adventure,0.00976,0.67187,7.42518
+138,R,Action & Adventure,0.00499,0.34375,6.88125
+139,India,"Action & Adventure, Dramas, International Movies",0.00613,0.40909,4.03501
+140,"Anime Series, International TV Shows",TV Show,0.00851,0.85227,44.4190
+141,"Anime Series, International TV Shows",Japan,0.00794,0.79545,43.2491
+142,"Anime Series, International TV Shows",TV Show,0.00465,0.46590,5.59853
+143,"Anime Series, International TV Shows",TV Show,0.00942,0.94318,3.28491
+144,TV-Y,Children & Family Movies,0.00965,0.39534,26.5819
+145,TV-Y7,Children & Family Movies,0.00794,0.32558,20.6310
+146,Children & Family Movies,nan,0.00942,0.38604,3.59439
+147,Children & Family Movies,nan,0.00488,0.2,7.62597
+148,"Children & Family Movies, Comedies",PG,0.01123,0.49253,15.1159
+149,"Children & Family Movies, Comedies",TV-Y7,0.00454,0.28776,12.6103
+150,"Children & Family Movies, Comedies",PG,0.00601,0.26368,14.1616
+151,Comedies,United States,0.00953,0.76363,3.26827
+152,"Comedies, Dramas, International Movies",Movie,0.01362,0.43795,4.31972
+153,"Comedies, Dramas, International Movies",TV-14,0.00919,0.29562,4.73422
+154,"Comedies, Dramas, International Movies",TV-14,0.01578,0.50729,3.13124
+155,TV-14,Movie,0.00840,0.48684,3.00497
+156,TV Show,"Crime TV Shows, Docuseries",0.00454,0.8,6.15406
+157,TV Show,"Crime TV Shows, Docuseries",0.00465,0.82000,9.50336
+158,TV Show,"Crime TV Shows, Docuseries",0.00544,0.96,3.34348
+159,"Crime TV Shows, Docuseries",nan,0.00465,0.82000,7.43061
+160,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",TV Show,0.00669,0.95161,7.32035
+161,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",TV Show,0.00658,0.93548,3.25810
+162,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",nan,0.00635,0.90322,5.74412
+163,"Crime TV Shows, International TV Shows, TV Dramas",TV Show,0.00976,0.78181,6.01419
+164,"Crime TV Shows, International TV Shows, TV Dramas",TV Show,0.01055,1.0,3.29147
+165,"Crime TV Shows, International TV Shows, TV Dramas",nan,0.00783,0.62727,3.98918
+166,"December 31, 2019",India,0.00613,0.72972,7.19760
+167,Documentaries,Movie,0.00862,0.21169,3.45304
+168,nan,Documentaries,0.02304,0.56545,5.26487
+169,nan,Documentaries,0.01566,0.38440,3.48333
+170,"Documentaries, International Movies",Movie,0.00488,0.23118,3.77084
+171,"Documentaries, International Movies",nan,0.01385,0.65591,6.10707
+172,"Documentaries, Music & Musicals",Movie,0.00669,0.71951,3.07942
+173,TV Show,United States,0.00692,0.71764,8.31715
+174,TV Show,nan,0.00919,0.95294,3.31890
+175,nan,United States,0.00647,0.67058,6.07668
+176,Dramas,R,0.00499,0.31884,3.52364
+177,"Dramas, Independent Movies",R,0.00579,0.51,5.63623
+178,United States,"Dramas, Independent Movies",0.00840,0.74,3.16711
+179,India,Movie,0.01226,0.42857,4.22716
+180,India,TV-14,0.00465,0.66129,5.99243
+181,India,TV-MA,0.00590,0.20634,7.32872
+182,Movie,India,0.01339,0.32596,3.21513
+183,India,TV-14,0.00828,0.20165,3.22945
+184,"Dramas, International Movies, Romantic Movies",India,0.00703,0.34444,3.39738
+185,"Dramas, International Movies, Romantic Movies",TV-14,0.01044,0.51111,3.15477
+186,India,"Dramas, International Movies, Thrillers",0.00488,0.32089,3.16511
+187,R,"Dramas, Thrillers",0.00510,0.54878,6.06481
+188,Egypt,TV-14,0.00692,0.57547,3.55203
+189,India,"March 1, 2018",0.00544,0.63999,6.31256
+190,"October 1, 2018",India,0.00533,0.66197,6.52928
+191,India,TV-14,0.05971,0.54115,3.34020
+192,South Korea,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00715,0.96923,54.0315
+193,South Korea,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00658,0.89230,52.0493
+194,TV Show,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00681,0.92307,3.21489
+195,TV Show,"International TV Shows, Romantic TV Shows, TV Comedies",0.00556,0.52127,6.26385
+196,TV Show,"International TV Shows, Romantic TV Shows, TV Comedies",0.00999,0.93617,3.26049
+197,nan,"International TV Shows, Romantic TV Shows, TV Comedies",0.00533,0.5,4.65539
+198,TV Show,"International TV Shows, Romantic TV Shows, TV Dramas",0.00601,0.58888,7.07630
+199,TV Show,"International TV Shows, Romantic TV Shows, TV Dramas",0.01010,0.98888,3.44410
+200,"International TV Shows, Romantic TV Shows, TV Dramas",nan,0.00601,0.58888,5.48301
+201,TV Show,TV-14,0.00658,0.47933,5.75991
+202,TV Show,TV-MA,0.00556,0.40495,3.11517
+203,TV Show,nan,0.01305,0.95041,3.31009
+204,nan,TV-14,0.00658,0.47933,4.46301
+205,Japan,TV Show,0.00806,0.28979,3.48229
+206,Japan,TV Show,0.01805,0.98148,3.23052
+207,TV Show,TV-Y,0.01328,0.53181,26.6150
+208,TV Show,TV-Y7,0.00976,0.39090,17.6570
+209,TV Show,United States,0.00874,0.35000,4.05631
+210,TV Show,nan,0.02452,0.98181,3.41947
+211,United States,TV-Y,0.00465,0.53246,15.2767
+212,nan,TV-Y,0.01294,0.51818,19.7582
+213,nan,TV-Y7,0.00965,0.38636,13.1902
+214,nan,United States,0.00874,0.35000,3.17160
+215,"Kids' TV, TV Comedies",TV Show,0.00488,0.43434,19.6189
+216,"Kids' TV, TV Comedies",TV Show,0.00476,0.42424,4.91674
+217,"Kids' TV, TV Comedies",TV Show,0.01067,0.94949,3.30690
+218,"Kids' TV, TV Comedies",nan,0.00454,0.40404,13.7937
+219,"Kids' TV, TV Comedies",nan,0.00465,0.41414,3.75283
+220,Stand-Up Comedy,Movie,0.03224,0.85029,3.63212
+221,TV Show,Reality TV,0.00806,0.74736,8.66160
+222,TV Show,Reality TV,0.01067,0.98947,3.44613
+223,Reality TV,nan,0.00794,0.73684,6.67706
+224,South Korea,TV Show,0.00908,0.40201,4.83070
+225,South Korea,TV Show,0.01680,0.98013,3.22608
+226,South Korea,nan,0.00862,0.38190,3.55587
+227,United States,Stand-Up Comedy,0.01918,0.50598,4.80252
+228,TV Show,TV Comedies,0.00454,0.57971,4.45946
+229,TV Show,TV Comedies,0.00692,0.88405,10.2457
+230,TV Show,TV Comedies,0.00760,0.97101,3.38184
+231,TV Comedies,nan,0.00681,0.86956,7.87976
+232,TV Show,Taiwan,0.00692,0.98387,3.23839
+233,TV Show,1 Season,0.00488,0.95555,3.32800
+234,TV Show,1 Season,0.00647,0.89062,3.10186
+235,TV Show,1 Season,0.00522,0.39655,4.76511
+236,TV Show,1 Season,0.01237,0.93965,3.27263
+237,1 Season,2015,0.00499,0.37931,3.53167
+238,TV Show,1 Season,0.00681,0.35928,4.31725
+239,TV Show,1 Season,0.00510,1.0,3.29147
+240,TV Show,1 Season,0.01827,0.96407,3.35766
+241,1 Season,nan,0.00647,0.34131,3.17793
+242,TV Show,2017,0.00544,0.27272,3.27719
+243,TV Show,2017,0.00862,0.43181,3.32179
+244,TV Show,2017,0.01861,0.93181,3.24533
+245,TV Show,1 Season,0.00772,0.26562,3.19184
+246,TV Show,1 Season,0.01532,0.52734,4.05663
+247,TV Show,1 Season,0.00658,1.0,3.29147
+248,TV Show,1 Season,0.02736,0.94140,3.27872
+249,1 Season,nan,0.01419,0.48828,3.10525
+250,2019,1 Season,0.00760,0.26587,3.19482
+251,2019,1 Season,0.01555,0.54365,4.18207
+252,2019,1 Season,0.00726,1.0,3.29147
+253,2019,1 Season,0.02702,0.94444,3.28931
+254,2019,1 Season,0.01441,0.50396,3.20501
+255,TV Show,1 Season,0.00681,1.0,3.29147
+256,TV Show,1 Season,0.01941,0.58762,4.52037
+257,TV Show,1 Season,0.01158,0.35051,4.06228
+258,TV Show,1 Season,0.03019,0.91408,3.18358
+259,1 Season,2020,0.01714,0.51890,3.29998
+260,1 Season,2020,0.01112,0.33676,3.05171
+261,TV Show,2021,0.00590,0.25615,3.07808
+262,TV Show,2021,0.01203,0.52216,4.01681
+263,TV Show,2021,0.00499,1.0,3.29147
+264,TV Show,2021,0.02213,0.96059,3.34554
+265,2021,1 Season,0.01123,0.48768,3.10146
+266,"Anime Series, International TV Shows",1 Season,0.00510,0.51136,40.9462
+267,"Anime Series, International TV Shows",1 Season,0.00488,0.48863,41.3837
+268,"Anime Series, International TV Shows",1 Season,0.00613,0.61363,3.20385
+269,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",1 Season,0.00476,0.67741,7.72889
+270,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",1 Season,0.00465,0.66129,3.45266
+271,"Crime TV Shows, International TV Shows, TV Dramas",1 Season,0.00772,0.61818,7.05303
+272,"Crime TV Shows, International TV Shows, TV Dramas",1 Season,0.00862,0.69090,3.60730
+273,"Crime TV Shows, International TV Shows, TV Dramas",1 Season,0.00601,0.48181,5.99414
+274,TV Show,1 Season,0.00533,0.55294,12.1151
+275,TV Show,1 Season,0.00726,0.75294,3.93118
+276,1 Season,nan,0.00488,0.50588,11.5435
+277,TV Show,India,0.00715,0.9,3.13451
+278,South Korea,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00681,0.92307,58.9163
+279,South Korea,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00624,0.84615,57.3301
+280,TV Show,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00647,0.87692,4.57850
+281,TV Show,1 Season,0.00533,0.5,8.24719
+282,TV Show,1 Season,0.00896,0.84042,4.38794
+283,1 Season,nan,0.00510,0.47872,8.21948
+284,TV Show,"International TV Shows, Romantic TV Shows, TV Dramas",0.00567,0.55555,9.16354
+285,TV Show,"International TV Shows, Romantic TV Shows, TV Dramas",0.00896,0.87777,4.58296
+286,"International TV Shows, Romantic TV Shows, TV Dramas",1 Season,0.00567,0.55555,9.53866
+287,TV Show,1 Season,0.00601,0.43801,7.22481
+288,TV Show,1 Season,0.01078,0.78512,4.09921
+289,1 Season,nan,0.00601,0.43801,7.52056
+290,Japan,1 Season,0.00522,0.41818,5.02502
+291,Japan,1 Season,0.01180,0.94545,3.29282
+292,Japan,1 Season,0.00499,0.39999,3.72431
+293,TV Show,1 Season,0.00737,0.29545,28.9151
+294,TV Show,1 Season,0.00522,0.20909,19.5922
+295,TV Show,1 Season,0.01339,0.97520,3.39644
+296,1 Season,nan,0.00703,0.28181,28.8634
+297,1 Season,nan,0.00522,0.20909,20.2381
+298,TV Show,Reality TV,0.00544,0.50526,11.0705
+299,TV Show,Reality TV,0.00726,0.67368,3.51737
+300,Reality TV,1 Season,0.00533,0.49473,11.2892
+301,South Korea,1 Season,0.00806,0.35678,5.88493
+302,South Korea,1 Season,0.00567,0.31645,3.61054
+303,South Korea,1 Season,0.01475,0.65326,3.41077
+304,South Korea,1 Season,0.00772,0.34170,5.86699
+305,South Korea,1 Season,0.00510,0.29801,3.40013
+306,TV Show,United States,0.01021,1.0,3.29147
+307,TV Show,1 Season,0.05824,0.28611,3.62080
+308,TV Show,1 Season,0.00613,0.94736,3.29949
+309,TV Show,1 Season,0.00476,1.0,3.29147
+310,TV Show,United States,0.02111,0.46268,3.55925
+311,TV Show,1 Season,0.08038,0.39486,3.26880
+312,TV Show,1 Season,0.00715,0.26359,3.05496
+313,TV Show,1 Season,0.02588,0.95397,3.32250
+314,TV Show,1 Season,0.00976,0.95555,3.32800
+315,TV Show,1 Season,0.01033,0.96808,3.37164
+316,TV Show,1 Season,0.00681,0.74074,3.86748
+317,TV Show,1 Season,0.01373,0.92366,3.21693
+318,TV Show,1 Season,0.04382,0.96019,3.34418
+319,2 Seasons,TV Show,0.00703,0.98412,3.42751
+320,2 Seasons,2019,0.00465,0.56164,4.32048
+321,2 Seasons,2019,0.00794,0.95890,3.33967
+322,2 Seasons,TV Show,0.00726,0.92753,3.23042
+323,2 Seasons,2021,0.00601,0.92982,3.23839
+324,2 Seasons,TV Show,0.00454,0.95238,3.31695
+325,2 Seasons,TV Show,0.00624,0.25,5.41031
+326,2 Seasons,TV Show,0.00806,0.97260,3.38738
+327,2 Seasons,United States,0.00658,0.30366,3.51931
+328,2 Seasons,TV Show,0.02043,0.42352,3.50605
+329,2 Seasons,TV Show,0.00601,0.98148,3.41830
+330,2 Seasons,TV Show,0.00613,0.96428,3.35841
+331,2 Seasons,TV Show,0.01430,0.29647,3.56250
+332,TV Show,2015,0.00624,0.33950,3.16106
+333,United States,2016,0.00522,0.21904,5.37429
+334,India,2016,0.00488,0.58904,3.63579
+335,2017,Documentaries,0.00692,0.21478,5.26980
+336,2017,nan,0.00510,0.50561,4.70769
+337,2017,TV-14,0.00590,0.51485,3.17786
+338,2017,Stand-Up Comedy,0.00579,0.89473,3.82194
+339,United States,Documentaries,0.00465,0.75925,3.24954
+340,Stand-Up Comedy,TV-MA,0.00590,0.89655,3.82969
+341,TV Show,nan,0.02054,0.47631,3.02916
+342,India,2019,0.00544,0.55172,3.40545
+343,2019,Stand-Up Comedy,0.00465,0.85416,3.64864
+344,TV Show,2019,0.02270,0.50377,3.20381
+345,TV Show,2020,0.02531,0.51146,3.25271
+346,TV Show,2020,0.01748,0.35321,3.20070
+347,TV Show,2021,0.01702,0.47619,3.02836
+348,TV Show,3 Seasons,0.01044,0.46231,3.82710
+349,TV Show,3 Seasons,0.00885,0.39195,4.70993
+350,TV Show,United States,0.00590,0.54736,6.57738
+351,R,United States,0.00499,0.34375,6.88125
+352,"Anime Series, International TV Shows",TV Show,0.00794,0.79545,44.0651
+353,TV-Y,Children & Family Movies,0.00488,0.2,29.3600
+354,"Children & Family Movies, Comedies",United States,0.00601,0.26368,14.1616
+355,"Comedies, Dramas, International Movies",TV-14,0.00919,0.29562,4.95023
+356,TV Show,"Crime TV Shows, Docuseries",0.00465,0.82000,9.85342
+357,"Crime TV Shows, International TV Shows, Spanish-Language TV Shows",TV Show,0.00635,0.90322,7.47707
+358,"Crime TV Shows, International TV Shows, TV Dramas",TV Show,0.00783,0.62727,5.19268
+359,United States,TV-14,0.00692,0.28638,7.02640
+360,nan,TV-14,0.00737,0.66326,6.17551
+361,United States,TV-MA,0.00930,0.22841,3.28198
+362,nan,TV-MA,0.00794,0.60869,5.66743
+363,United States,Documentaries,0.00567,0.20080,3.27532
+364,United States,nan,0.01566,0.38440,14.1665
+365,United States,nan,0.00533,0.40869,3.70348
+366,"Documentaries, International Movies",TV-MA,0.00544,0.25806,7.08109
+367,TV Show,nan,0.00647,0.67058,8.05803
+368,India,TV-14,0.00465,0.66129,6.52255
+369,India,TV-MA,0.00590,0.20634,8.45359
+370,Movie,India,0.00828,0.20165,3.37680
+371,South Korea,"International TV Shows, Korean TV Shows, Romantic TV Shows",0.00658,0.89230,53.1043
+372,TV Show,nan,0.00533,0.5,6.32758
+373,TV Show,"International TV Shows, Romantic TV Shows, TV Dramas",0.00601,0.58888,7.45249
+374,TV Show,nan,0.00658,0.47933,6.06611
+375,TV Show,nan,0.00488,0.87755,3.05633
+376,Japan,TV Show,0.00749,0.26938,3.40914
+377,Japan,TV Show,0.00692,1.0,3.29147
+378,TV Show,United States,0.00465,0.35042,4.06126
+379,TV Show,nan,0.01294,0.51818,26.6909
+380,TV Show,nan,0.00965,0.38636,18.0057
+381,TV Show,nan,0.00874,0.35000,4.20572
+382,United States,nan,0.00465,0.35042,3.17547
+383,"Kids' TV, TV Comedies",TV Show,0.00454,0.40404,18.8295
+384,"Kids' TV, TV Comedies",TV Show,0.00465,0.41414,4.97647
+385,United States,Stand-Up Comedy,0.01918,0.50598,7.27037
+386,Stand-Up Comedy,nan,0.00476,0.87500,3.73763
+387,TV Show,Reality TV,0.00794,0.73684,8.85416
+388,South Korea,TV Show,0.00862,0.38190,4.83313
+389,South Korea,TV Show,0.00544,0.96,3.15982
+390,TV Show,TV Comedies,0.00681,0.86956,10.4490
+391,TV Show,United Kingdom,0.00488,0.20187,4.11606
+392,TV Show,1 Season,0.00499,0.37931,4.80023
+393,TV Show,1 Season,0.00647,0.34131,4.31943
+394,TV Show,1 Season,0.00476,0.93333,3.25061
+395,TV Show,2017,0.00522,0.26136,3.30760
+396,TV Show,2017,0.00806,0.40340,3.33949
+397,TV Show,1 Season,0.00737,0.25390,3.21322
+398,TV Show,1 Season,0.01419,0.48828,4.04208
+399,TV Show,1 Season,0.00647,0.98275,3.42275
+400,TV Show,1 Season,0.00737,0.25793,3.26423
+401,TV Show,1 Season,0.01441,0.50396,4.17194
+402,TV Show,1 Season,0.00703,0.96875,3.37396
+403,TV Show,1 Season,0.00635,0.93333,3.25061
+404,TV Show,1 Season,0.00681,0.20618,5.76534
+405,TV Show,1 Season,0.01714,0.51890,4.29555
+406,TV Show,1 Season,0.01112,0.33676,4.04675
+407,1 Season,United States,0.00647,0.33333,3.02057
+408,TV Show,1 Season,0.00579,0.25123,3.17937
+409,TV Show,1 Season,0.01123,0.48768,4.03714
+410,TV Show,1 Season,0.00488,0.97727,3.40364
+411,TV Show,1 Season,0.00488,0.48863,41.3837
+412,TV Show,1 Season,0.00601,0.48181,5.99414
+413,TV Show,1 Season,0.00488,0.50588,11.5435
+414,TV Show,1 Season,0.00624,0.84615,57.3301
+415,TV Show,1 Season,0.00510,0.47872,8.21948
+416,TV Show,1 Season,0.00567,0.55555,9.53866
+417,TV Show,1 Season,0.00601,0.43801,7.52056
+418,TV Show,1 Season,0.00499,0.39999,5.06206
+419,TV Show,1 Season,0.00703,0.28181,28.8634
+420,TV Show,1 Season,0.00522,0.20909,20.2381
+421,TV Show,1 Season,0.00533,0.49473,11.2892
+422,TV Show,1 Season,0.00772,0.34170,5.86699
+423,TV Show,1 Season,0.00510,0.28481,3.54323
+424,TV Show,1 Season,0.00999,0.97777,3.40540
+425,TV Show,1 Season,0.01998,0.43781,3.62428
+426,TV Show,1 Season,0.00692,0.25523,3.06693
+427,TV Show,United States,0.00647,0.29842,3.58603
+428,TV Show,United States,0.00635,0.50909,3.23759
+429,TV Show,United States,0.00806,0.33177,3.00646
+430,TV Show,United States,0.00885,0.49056,3.11978
+431,Documentaries,Movie,0.00533,0.40869,15.0618
+432,TV Show,Kids' TV,0.00465,0.35042,4.21086
+433,TV Show,1 Season,0.00647,0.33333,4.00545
